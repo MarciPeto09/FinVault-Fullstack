@@ -1,0 +1,6 @@
+[submodule "FinVault-WEB"]
+	path = FinVault-WEB
+	url = https://github.com/MarciPeto09/FinVault-WEB
+[submodule "FinVault-API"]
+	path = FinVault-API
+	url = https://github.com/MarciPeto09/FinVault-API
